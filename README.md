@@ -10,7 +10,7 @@ Install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https
 curl -s https://raw.githubusercontent.com/jayo2005/odoo-16-docker-compose/master/run.sh | sudo bash -s odoo-sixteen 10018 20018
 ```
 
-to set up first Odoo instance @ `localhost:10016` (default master password: `minhng.info`)
+to set up first Odoo instance @ `localhost:10016` (default master password: `Sc00tZujeva`)
 
 and
 
@@ -18,7 +18,7 @@ and
 curl -s https://raw.githubusercontent.com/jayo2005/odoo-16-docker-compose/master/run.sh | sudo bash -s odoo-two 11016 21016
 ```
 
-to set up another Odoo instance @ `localhost:11016` (default master password: `minhng.info`)
+to set up another Odoo instance @ `localhost:11016` (default master password: `Sc00tZujeva`)
 
 Some arguments:
 * First argument (**odoo-one**): Odoo deploy folder
